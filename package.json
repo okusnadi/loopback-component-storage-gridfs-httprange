@@ -1,6 +1,6 @@
 {
   "name": "loopback-component-storage-gridfs-httprange",
-  "version": "1.0.4.1",
+  "version": "1.0.5",
   "description": "mrmartinimo loopback storage component gridfs with httprange support",
   "main": "index.js",
   "repository": {
